@@ -1,5 +1,5 @@
 # alta3research-python-3day-cert
-altas certification 
+Altas certification 
 
 
 Procedure
