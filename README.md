@@ -1,7 +1,6 @@
 # alta3research-python-3day-cert
 Altas certification 
 
-
 Procedure
 1. Create a public repository on GitHub called alta3research-python-3day-cert
 2. Inside of the public repository should be a script called, alta3research-python3daycert01.py
@@ -20,3 +19,19 @@ Procedure
         * GitHub URL: - The URL of your public GitHub repository containing your work to be graded
         * Course Start: - Date your course started on
         * Instructor: - Name of your instructor (if you remember)
+
+
+
+
+Instruction to run the program 
+1. Change permissions on the script.
+
+student@bchd:~/alta3research-python-3day-cert$ chmod u+x ~/alta3research-python-3day-cert/alta3research-python3daycert01.py
+
+2. Run the script.
+
+student@bchd:~/mycode$ ~/alta3research-python-3day-cert/alta3research-python3daycert01.py
+
+3. Or use python3 cmd to run the script
+
+student@bchd:~/mycode$ python3 alta3research-python3daycert01.py
